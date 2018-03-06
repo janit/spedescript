@@ -1,7 +1,7 @@
 
 # SpedeScript ohjelmointikieli
 
-Jo edesmenneen suurmiehen, [Pertti Olavi "Spede" Pasasen](https://en.wikipedia.org/wiki/Spede_Pasanen), innoittama ohjelmointikieli.
+Jo edesmenneen suurmiehen, [Pertti Olavi "Spede" Pasasen](https://en.wikipedia.org/wiki/Spede_Pasanen) ja alitajuisesti [ArnoldC](http://lhartikk.github.io/ArnoldC/):n innoittama ohjelmointikieli.
 
 Toistaiseksi aika raakile koska ei ole a) aikaa b) kiinnostusta viedä tätä teenpäin. Jos itselläsi on viljalti aikaa ja kiinnostusta niin vie ihmeessä eteenpäin. Forkkaa tai jotain.
 
@@ -21,3 +21,5 @@ eh-eh-eh
 ```
 
 [SpedeScript](https://janit.iki.fi/spedescript/)
+
+![Vesku koodaa](https://janit.iki.fi/shit/spede-js.gif)

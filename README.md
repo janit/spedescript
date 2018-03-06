@@ -21,5 +21,3 @@ eh-eh-eh
 ```
 
 [SpedeScript](https://janit.iki.fi/spedescript/)
-
-![Vesku koodaa](https://janit.iki.fi/shit/spede-js.gif)

@@ -5,7 +5,7 @@ Jo edesmenneen suurmiehen, [Pertti Olavi "Spede" Pasasen](https://en.wikipedia.o
 
 Toistaiseksi aika raakile koska ei ole a) osaamista b) aikaa c) kiinnostusta viedä tätä teenpäin. Jos itselläsi on viljalti aikaa ja kiinnostusta niin vie ihmeessä eteenpäin. Osaamisella ei niin väliä, ei toki haittaakaan. Forkkaa tai jotain.
 
-Kielen ydinajatus on että se on helppo oppia, koska niin paljon hoituu samoilla keywordeilla - ei tarvitse käyttää aikaa ja niiden muisteluun. Se sopii erinomaisesti savolaisen koulukunnan mukaisen arkkitehtuurin omaavien kvanttitietokoneiden ohjelmointiin, esimerkkeinä esimerkiksi tekoäly- ja lohkoketjutoteutukset.
+Kielen ydinajatus on että se on helppo oppia, koska niin paljon hoituu samoilla keywordeilla - ei tarvitse käyttää aikaa ja niiden muisteluun. SpedeScript sopii erinomaisesti savolaisen koulukunnan mukaisen arkkitehtuurin omaavien kvanttitietokoneiden ohjelmointiin. Esimerkiksi tekoäly- ja lohkoketjutoteutuksiin se on omiaan ja on aito vaihtoehto [Microsoftin Q# -kielelle](https://docs.microsoft.com/en-us/quantum/quantum-qr-intro?view=qsharp-preview).
 
 ## SpedeScript Esimerkki
 

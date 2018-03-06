@@ -29,4 +29,8 @@ suottaapi olla
 eheheh
 ```
 
+## Lisenssi
+
+SpedeScript on vapaasti käytössä savolaisen softalisenssin (SSL) piirissä.
+
 [SpedeScript](https://janit.iki.fi/spedescript/)

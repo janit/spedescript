@@ -1,7 +1,9 @@
 
 # SpedeScript ohjelmointikieli
 
-Jo edesmenneen suurmiehen, [Pertti Olavi "Spede" Pasasen](https://en.wikipedia.org/wiki/Spede_Pasanen) ja alitajuisesti [ArnoldC](http://lhartikk.github.io/ArnoldC/):n innoittama ohjelmointikieli.
+Jo edesmenneen suurmiehen, [Pertti Olavi "Spede" Pasasen](https://en.wikipedia.org/wiki/Spede_Pasanen) ja alitajuisesti [ArnoldC](http://lhartikk.github.io/ArnoldC/):n innoittama mullistava ohjelmointikieli:
+
+>>Ensimmäinen ohjelmointikieli jossa koodin oikeellisuus ei ole ohjelmoijan vaan kääntäjän vastuulla!
 
 Toistaiseksi aika raakile koska ei ole a) osaamista b) aikaa c) kiinnostusta viedä tätä teenpäin. Jos itselläsi on viljalti aikaa ja kiinnostusta niin vie ihmeessä eteenpäin. Osaamisella ei niin väliä, ei toki haittaakaan. Forkkaa tai jotain.
 

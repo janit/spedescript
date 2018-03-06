@@ -33,8 +33,7 @@ eheheh
 
 ## Lisenssi
 
-SpedeScript on vapaasti käytössä [savolaisen softalisenssin (SSL)](https://github.com/janit/spedescript/blob/master/LICENSE) määräämissä puitteissa.
+[SpedeScript](https://janit.iki.fi/spedescript/) on vapaasti käytössä [savolaisen softalisenssin (SSL)](https://github.com/janit/spedescript/blob/master/LICENSE) määräämissä puitteissa.
 
-[SpedeScript](https://janit.iki.fi/spedescript/)
 
 <sup>*</sup> https://www.reddit.com/r/Suomi/comments/82d6rd/spedescript_ohjelmointikieli/dva1y60/

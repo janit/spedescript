@@ -3,7 +3,7 @@
 
 Jo edesmenneen suurmiehen, [Pertti Olavi "Spede" Pasasen](https://en.wikipedia.org/wiki/Spede_Pasanen) ja alitajuisesti [ArnoldC](http://lhartikk.github.io/ArnoldC/):n innoittama ohjelmointikieli.
 
-Toistaiseksi aika raakile koska ei ole a) aikaa b) kiinnostusta viedä tätä teenpäin. Jos itselläsi on viljalti aikaa ja kiinnostusta niin vie ihmeessä eteenpäin. Forkkaa tai jotain.
+Toistaiseksi aika raakile koska ei ole a) osaamista b) aikaa c) kiinnostusta viedä tätä teenpäin. Jos itselläsi on viljalti aikaa ja kiinnostusta niin vie ihmeessä eteenpäin. Forkkaa tai jotain.
 
 Kielen ydinajatus on että se on helppo oppia, koska niin paljon hoituu samoilla keywordeilla - ei tarvitse käyttää aikaa ja niiden muisteluun.
 
